@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.6e1626fe.js",
-    "static/js/787.dd9a8d66.chunk.js": "/static/js/787.dd9a8d66.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.6e1626fe.js.map": "/static/js/main.6e1626fe.js.map",
-    "787.dd9a8d66.chunk.js.map": "/static/js/787.dd9a8d66.chunk.js.map"
+    "main.css": "/Node-App-Deployment-using-Github-CICD-Workflows/static/css/main.073c9b0a.css",
+    "main.js": "/Node-App-Deployment-using-Github-CICD-Workflows/static/js/main.d5b84648.js",
+    "static/js/787.dd9a8d66.chunk.js": "/Node-App-Deployment-using-Github-CICD-Workflows/static/js/787.dd9a8d66.chunk.js",
+    "static/media/logo.svg": "/Node-App-Deployment-using-Github-CICD-Workflows/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Node-App-Deployment-using-Github-CICD-Workflows/index.html",
+    "main.073c9b0a.css.map": "/Node-App-Deployment-using-Github-CICD-Workflows/static/css/main.073c9b0a.css.map",
+    "main.d5b84648.js.map": "/Node-App-Deployment-using-Github-CICD-Workflows/static/js/main.d5b84648.js.map",
+    "787.dd9a8d66.chunk.js.map": "/Node-App-Deployment-using-Github-CICD-Workflows/static/js/787.dd9a8d66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6e1626fe.js"
+    "static/js/main.d5b84648.js"
   ]
 }
