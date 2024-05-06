@@ -1,6 +1,7 @@
 name: Node Js App Deployment using workflows CICD
 on:
-    push: [master]
+    push: 
+        branches: [master]
 
 permissions:
     contents: write
